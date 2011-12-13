@@ -2,6 +2,7 @@
 /**
  * GeoNames API wrapper
  * @author _ianbarker
+ * @todo add more documentation based comments
  */
 class GeoNames {
 
